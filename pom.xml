@@ -20,10 +20,10 @@
         <relativePath/>
     </parent>
 
-    <!--modules>
+    <modules>
         <module>eureka-server</module>
         <module>service-hi</module>
-    </modules-->
+    </modules>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>

@@ -34,7 +34,7 @@ build/
 
 # ignore .mvn
 .mvn/
-eureka-server.iml
+service-hi.iml
 HELP.md
 mvnw
 mvnw.cmd
