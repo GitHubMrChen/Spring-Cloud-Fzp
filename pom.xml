@@ -6,11 +6,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.springcloud.fzp</groupId>
-    <artifactId>sc-h-chapter2</artifactId>
+    <artifactId>sc-h-chapter3</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <packaging>pom</packaging>
 
-    <name>sc-h-chapter2</name>
+    <name>sc-h-chapter3</name>
     <description>Demo project for Spring Boot</description>
 
     <parent>
@@ -23,6 +23,8 @@
     <modules>
         <module>eureka-server</module>
         <module>service-hi</module>
+        <module>service-ribbon</module>
+        <module>service-feign</module>
     </modules>
 
     <properties>
