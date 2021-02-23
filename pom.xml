@@ -6,11 +6,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.springcloud.fzp</groupId>
-    <artifactId>sc-h-chapter3</artifactId>
+    <artifactId>sc-h-chapter4</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <packaging>pom</packaging>
 
-    <name>sc-h-chapter3</name>
+    <name>sc-h-chapter4</name>
     <description>Demo project for Spring Boot</description>
 
     <parent>
