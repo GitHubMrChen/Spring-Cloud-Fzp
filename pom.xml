@@ -6,11 +6,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.springcloud.fzp</groupId>
-    <artifactId>sc-h-chapter4</artifactId>
+    <artifactId>sc-h-chapter5</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <packaging>pom</packaging>
 
-    <name>sc-h-chapter4</name>
+    <name>sc-h-chapter5</name>
     <description>Demo project for Spring Boot</description>
 
     <parent>
@@ -25,6 +25,7 @@
         <module>service-hi</module>
         <module>service-ribbon</module>
         <module>service-feign</module>
+        <module>service-zuul</module>
     </modules>
 
     <properties>
