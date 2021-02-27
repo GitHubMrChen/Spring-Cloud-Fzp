@@ -6,11 +6,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.springcloud.fzp</groupId>
-    <artifactId>sc-h-chapter7</artifactId>
+    <artifactId>sc-h-chapter8</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <packaging>pom</packaging>
 
-    <name>sc-h-chapter7</name>
+    <name>sc-h-chapter8</name>
     <description>Demo project for Spring Boot</description>
 
     <parent>
@@ -21,9 +21,8 @@
     </parent>
 
     <modules>
-        <module>config-client</module>
-        <module>config-server</module>
-        <module>eureka-server</module>
+        <module>service-hi</module>
+        <module>service-miya</module>
     </modules>
 
     <properties>
