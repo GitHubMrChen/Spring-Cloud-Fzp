@@ -27,3 +27,4 @@ hs_err_pid*
 sc-h-chapter2.iml
 sc-h-chapter3.iml
 sc-h-chapter6.iml
+!zipkin-server-2.12.9-exec.jar
