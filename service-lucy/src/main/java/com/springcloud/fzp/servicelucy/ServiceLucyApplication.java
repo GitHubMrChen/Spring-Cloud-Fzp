@@ -1,4 +1,4 @@
-package com.springcloud.fzp.servicehi;
+package com.springcloud.fzp.servicelucy;
 
 import com.netflix.hystrix.contrib.javanica.annotation.HystrixCommand;
 import org.springframework.beans.factory.annotation.Value;
@@ -20,13 +20,10 @@ import org.springframework.web.bind.annotation.RestController;
 @EnableHystrix
 @EnableHystrixDashboard
 @EnableCircuitBreaker
-public class ServiceHiApplication {
+public class ServiceLucyApplication {
 
-    /**
-     * 访问地址 http://localhost:8762/actuator/hystrix.stream
-     */
     public static void main(String[] args) {
-        SpringApplication.run(ServiceHiApplication.class, args);
+        SpringApplication.run(ServiceLucyApplication.class, args);
     }
 
     @Value("${server.port}")

@@ -15,7 +15,7 @@
 
     <parent>
         <groupId>com.springcloud.fzp</groupId>
-        <artifactId>sc-h-chapter12</artifactId>
+        <artifactId>sc-h-chapter13</artifactId>
         <version>0.0.1-SNAPSHOT</version>
     </parent>
 

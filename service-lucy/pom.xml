@@ -6,11 +6,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.springcloud.fzp</groupId>
-    <artifactId>service-hi</artifactId>
+    <artifactId>service-lucy</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <packaging>jar</packaging>
 
-    <name>service-hi</name>
+    <name>service-lucy</name>
     <description>Demo project for Spring Boot</description>
 
     <parent>
